@@ -1,0 +1,2 @@
+(self.webpackChunkwisecode_website=self.webpackChunkwisecode_website||[]).push([[218],{9786:function(e,n,t){"use strict";t.r(n);var r=t(7294);n.default=function(){return r.createElement("main",null,"Error")}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-1c83bae98f6c5d7f1c87.js.map

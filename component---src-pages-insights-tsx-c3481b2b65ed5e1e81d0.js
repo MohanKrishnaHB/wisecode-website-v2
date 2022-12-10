@@ -1,0 +1,2 @@
+(self.webpackChunkwisecode_website=self.webpackChunkwisecode_website||[]).push([[225],{7329:function(e,t,s){"use strict";s.r(t);var n=s(7294),i=(s(6411),s(5788)),c=s(2514),h=i.Z.Content;t.default=function(){return n.createElement(c.Z,{selectedKey:"insights"},n.createElement(h,{style:{padding:"0 50px",height:"80vh"}},"Insights"))}}}]);
+//# sourceMappingURL=component---src-pages-insights-tsx-c3481b2b65ed5e1e81d0.js.map

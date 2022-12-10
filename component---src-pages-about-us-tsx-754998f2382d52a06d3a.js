@@ -1,0 +1,2 @@
+(self.webpackChunkwisecode_website=self.webpackChunkwisecode_website||[]).push([[158],{4519:function(e,t,s){"use strict";s.r(t);var n=s(7294),u=(s(6411),s(5788)),c=s(2514),i=u.Z.Content;t.default=function(){return n.createElement(c.Z,{selectedKey:"about-us"},n.createElement(i,{style:{padding:"0 50px",height:"80vh"}},"About Us"))}}}]);
+//# sourceMappingURL=component---src-pages-about-us-tsx-754998f2382d52a06d3a.js.map

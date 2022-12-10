@@ -1,0 +1,59 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1280">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #dffcff;
+            }
+
+            .cls-2,
+            .cls-4 {
+                fill: none;
+            }
+
+            .cls-2 {
+                stroke: #2c494c;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-width: 8px;
+            }
+
+            .cls-3 {
+                fill: #2c494c;
+            }
+
+            .cls-3,
+            .cls-4 {
+                stroke: #000;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-4 {
+                stroke-width: 4px;
+            }
+        </style>
+    </defs>
+    <title>wise-code-logo</title>
+    <rect class="cls-1" width="1280" height="1280" />
+    <polyline class="cls-2" points="971 391 805 391 632 557 633 723 805 889 971 889" />
+    <polyline class="cls-2" points="308 889 473 723 633 889" />
+    <circle class="cls-3" cx="306.75" cy="391" r="48" />
+    <circle class="cls-3" cx="307.25" cy="557" r="48" />
+    <circle class="cls-3" cx="307.75" cy="723" r="48" />
+    <circle class="cls-3" cx="308.25" cy="889" r="48" />
+    <circle class="cls-4" cx="472.25" cy="557" r="48" />
+    <circle class="cls-3" cx="472.75" cy="723" r="48" />
+    <circle class="cls-4" cx="473.25" cy="889" r="48" />
+    <circle class="cls-3" cx="632.25" cy="557" r="48" />
+    <circle class="cls-3" cx="632.75" cy="723" r="48" />
+    <circle class="cls-3" cx="633.25" cy="889" r="48" />
+    <circle class="cls-4" cx="804.25" cy="557" r="48" />
+    <circle class="cls-4" cx="804.75" cy="723" r="48" />
+    <circle class="cls-3" cx="805.25" cy="889" r="48" />
+    <circle class="cls-4" cx="970.25" cy="557" r="48" />
+    <circle class="cls-4" cx="970.75" cy="723" r="48" />
+    <circle class="cls-3" cx="971.25" cy="889" r="48" />
+    <circle class="cls-4" cx="472.75" cy="391" r="48" />
+    <circle class="cls-3" cx="638.75" cy="391" r="48" />
+    <circle class="cls-3" cx="804.75" cy="391" r="48" />
+    <circle class="cls-3" cx="970.75" cy="391" r="48" />
+</svg>

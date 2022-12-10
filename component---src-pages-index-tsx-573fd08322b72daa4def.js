@@ -1,0 +1,2 @@
+(self.webpackChunkwisecode_website=self.webpackChunkwisecode_website||[]).push([[691],{308:function(e,n,c){"use strict";c.r(n);var i=c(294);n.default=function(){return i.createElement("main",null,"wisecodeinc.com is under development")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-573fd08322b72daa4def.js.map
